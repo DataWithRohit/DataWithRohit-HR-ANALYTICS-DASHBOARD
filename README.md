@@ -1,7 +1,3 @@
-Here’s the **final README.md** file with direct links to your project files. Just **copy and paste** this into your GitHub repository:  
-
----
-
 # **HR Analytics Dashboard 🚀**  
 📊 **Power BI | Employee Attrition Analysis | Data-Driven HR Insights**  
 
@@ -37,13 +33,8 @@ This project focuses on **HR Analytics**, specifically analyzing **employee attr
 2️⃣ Open in **Power BI Desktop**.  
 3️⃣ Explore insights & customize!  
 
-## 🔗 Project Links  
-📌 **GitHub Repo:** [Your Repo Link Here]  
-📌 **Power BI Dashboard:** [Your Dashboard Link Here] *(If hosted online)*  
 
 ## 🏆 About Me  
 👋 Hi, I'm **Rohit**, a passionate **Data Analyst** exploring HR Analytics! Connect with me on [LinkedIn](https://www.linkedin.com/in/rohit-panwar22/) 🚀  
 
----
 
-✅ **Copy-paste this into your README.md file and update the links where needed!** 🚀
