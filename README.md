@@ -22,11 +22,11 @@ This project focuses on **HR Analytics**, specifically analyzing **employee attr
 
 ## 🛠 Tools & Technologies  
 - **Power BI** – Data Visualization 📊  
-- **Excel** – Data Cleaning & Preprocessing 🧹  
-- **SQL** – Querying & Analysis 🗄  
+- **Power Query** – Data Cleaning & Preprocessing 🧹  
+  
 
 ## 📷 Dashboard Preview  
-![HR Analytics Dashboard](#) *(Upload an image & replace `#` with the image link)*  
+![HR Analytics Dashboard](https://github.com/DataWithRohit/DataWithRohit-HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.pbix) 
 
 ## 🚀 How to Use  
 1️⃣ Download the **`.pbix`** file.  
